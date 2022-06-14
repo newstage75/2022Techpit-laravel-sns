@@ -13,3 +13,17 @@ Laravelを用いて、一通りプロジェクトを作成するに至ってい�
 さらに、この教材は最終的に「Heroku」へのデプロイがある。
 
 自身のサイトをHerokuに移せないか？と考えていた矢先のため、その辺りも含めて確認できたらと思う。
+
+
+### 自分用メモ〜プロジェクトの立ち上げ方〜
+
+[こちらを参照](https://www.techpit.jp/courses/11/curriculums/12/sections/103/parts/356)
+
+laradockディレクトリ（編集しているlaravelフォルダと同階層に存在）にて
+```
+docker-compose up -d workspace php-fpm nginx postgres
+```
+```
+#終了
+docker-compose stop
+```
