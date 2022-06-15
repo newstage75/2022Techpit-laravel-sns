@@ -27,3 +27,8 @@ docker-compose up -d workspace php-fpm nginx postgres
 #終了
 docker-compose stop
 ```
+
+
+### GitHubの活用指針
+
+[こちらを参照](https://qiita.com/tkmd35/items/9612c03dc60b1c516969)
