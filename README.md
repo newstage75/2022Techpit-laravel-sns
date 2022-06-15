@@ -5,7 +5,7 @@
 
 [Laravel(+Vue.js)でSNS風Webサービスを作ろう！](https://www.techpit.jp/courses/11)
 
-Laravelを用いて、一通りプロジェクトを作成するに至った[参考URL](https://tugi-ichi.com)自分ではあるが、
+Laravelを用いて、一通りプロジェクトを作成するに至った([参考URL](https://tugi-ichi.com))自分ではあるが、
 再度この教材を学習することにより、Laravelに対する理解をより深める狙い
 
 前回は飛ばし飛ばし＆コピペが多かったが、丁寧に進めて行きたい。
@@ -31,4 +31,4 @@ docker-compose stop
 
 ### GitHubの活用指針
 
-[こちらを参照](https://qiita.com/tkmd35/items/9612c03dc60b1c516969)
+[こちらを参照した|GitHubのissueを活用した個人アプリの開発手順を書いてみた](https://qiita.com/tkmd35/items/9612c03dc60b1c516969)
