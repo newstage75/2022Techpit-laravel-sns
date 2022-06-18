@@ -32,3 +32,8 @@ docker-compose stop
 ### GitHubの活用指針
 
 [こちらを参照した|GitHubのissueを活用した個人アプリの開発手順を書いてみた](https://qiita.com/tkmd35/items/9612c03dc60b1c516969)
+
+
+## 2022/06/18 VSCODEのDrawioを使って、ER図を作成しました！！！
+
+![ER図](https://github.com/newstage75/2022Techpit-laravel-sns/blob/master/ER.drawio.png "本プロジェクトのER図")
